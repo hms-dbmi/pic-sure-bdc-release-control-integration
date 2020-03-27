@@ -6,19 +6,19 @@
     {
       "project_name": "PIC-SURE-API Build",
       "project_job_git_key":"PSA",
-      "git_hash": "7c6424c3336861fe3a341f12494f7b4c2508d1cf"
+      "git_hash": "262be669dae573b3030656d393d9f9b0ce98e81d"
     },{
       "project_name": "PIC-SURE-HPDS Build",
       "project_job_git_key":"PSH",
-      "git_hash": "d1da0b6a2c623ae067da7de668ca8539dc90c80f"
+      "git_hash": "87ea5820f585b5c9079a07ab7e1951bbfd71e288"
     },{
       "project_name": "PIC-SURE Auth Micro-App Build",
       "project_job_git_key":"PSAMA",
-      "git_hash": "3adeadf1e89ef14da3991228c2a9bc5a519152b4"
+      "git_hash": "2895c994b92b9dfbcb0f7d0fc71e3850799afac7"
     },{
       "project_name": "PIC-SURE-HPDS-UI Build",
       "project_job_git_key":"PSHU",
-      "git_hash": "181980897619a76c49132b01756462b6051aae49"
+      "git_hash": "0379b92857b1c4aa477d33e234105f8a25eae5a2"
     },{
       "project_name": "PIC-SURE-HPDS DataSTAGE UI Build",
       "project_job_git_key":"PSHDU",
@@ -26,12 +26,12 @@
     },{
       "project_name": "biodatacatalyst-ui",
       "project_job_git_key":"BDCU",
-      "git_hash": "8bbd37f35fc79c26493a3e9f173fccd0f7298591"
+      "git_hash": "dee90ec730937d9f82f11657614263ec257c0cb6"
     }
   ],
   "terraform_vars": [{
     "ami_id" : "ami-0ecea7ed484f565dd",
     "dataset_s3_object_key" : "data/biocatalyst_javabins_11_26_2019_rekeyed.tar.gz"
   }],
-  "source_dataset_s3_url" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/biodatacatalyst_javabins_12_7_2019.tar.gz"
+  "source_dataset_s3_url" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/biodatacatalyst_javabins_03-25-20.tar.gz"
 }
