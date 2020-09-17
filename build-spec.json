@@ -18,11 +18,11 @@
     },{
       "project_name": "PIC-SURE-HPDS-UI Build",
       "project_job_git_key":"PSHU",
-      "git_hash": "046a0a3cfdaa0401cf878fd463ddf17c115831a9"
+      "git_hash": "ba2303bfc1d2d309a6c209ec4aa4f6ae6e066baf"
     },{
       "project_name": "PIC-SURE-HPDS DataSTAGE UI Build",
       "project_job_git_key":"PSHDU",
-      "git_hash": "ba2303bfc1d2d309a6c209ec4aa4f6ae6e066baf"
+      "git_hash": "74ec20e056d8af8d3277e185848d8c3d8b41474f"
     },{
       "project_name": "biodatacatalyst-ui",
       "project_job_git_key":"BDCU",
