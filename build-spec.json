@@ -33,5 +33,5 @@
   ,
   "source_genomic_dataset_s3_url" :  "s3://avillach-73-bdcatalyst-etl/general/hpds/genomics_javabins/freeze.5b.chrall.phased.pass.minDP0.remDuplicates.combined.hpds_variant_data.infoStoresFixed.tar.gz"
   ,
-  "infrastructure_git_hash" : "c39127c045e41c44077d4c19c9057b6a53db0e59"
+  "infrastructure_git_hash" : "a0d562ff074bb654915e0efff8b762036eead059"
 }
