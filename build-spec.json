@@ -10,11 +10,11 @@
     },{
       "project_name": "PIC-SURE-HPDS Build",
       "project_job_git_key":"PSH",
-      "git_hash": "e4c4420c15f6d179554c245c835061a0504377d4"
+      "git_hash": "dac438c00d03b0a6601db18480a534821b244727"
     },{
       "project_name": "PIC-SURE Auth Micro-App Build",
       "project_job_git_key":"PSAMA",
-      "git_hash": "5c20f2f5cedd3a0245163de8cd8f75190e3b3b5b"
+      "git_hash": "f2c31f6611406f347c4765122c64de921e2944a5"
     },{
       "project_name": "PIC-SURE-HPDS-UI Build",
       "project_job_git_key":"PSHU",
@@ -22,7 +22,7 @@
     },{
       "project_name": "biodatacatalyst-ui",
       "project_job_git_key":"BDCU",
-      "git_hash": "fd93de9c063fb7b563d12b28fa907a495bdad464"
+      "git_hash": "6870c1353e213605656560ae90c6e06742965ada"
     }
   ],
   "terraform_vars": [{
@@ -35,5 +35,5 @@
   ,
   "source_genomic_dataset_s3_url" :  "s3://avillach-73-bdcatalyst-etl/general/hpds/genomics_javabins/freeze.5b.chrall.phased.pass.minDP0.remDuplicates.combined.hpds_variant_data.infoStoresFixed.tar.gz"
   ,
-  "infrastructure_git_hash" : "16f1fad819f9fd52ba0e34c9d888b65e97713ec4"
+  "infrastructure_git_hash" : "2d70c3b544ee77b61e5c3aafe100e145fcfc624a"
 }
