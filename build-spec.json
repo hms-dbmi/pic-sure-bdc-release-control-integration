@@ -18,22 +18,22 @@
     },{
       "project_name": "PIC-SURE-HPDS-UI Build",
       "project_job_git_key":"PSHU",
-      "git_hash": "2bd8aa460bf431de011afc86b11c1fb920500936"
+      "git_hash": "d835ce07a42a820416a2c861b056c055265e95b7"
     },{
       "project_name": "biodatacatalyst-ui",
       "project_job_git_key":"BDCU",
-      "git_hash": "6870c1353e213605656560ae90c6e06742965ada"
+      "git_hash": "34c8e697507be950fda4a5f55c81bbacdfec6959"
     }
   ],
   "terraform_vars": [{
     "ami_id" : "ami-0ab0e95a07df37e5e",
     "dataset_s3_object_key" : "data/biocatalyst_javabins_11_26_2019_rekeyed.tar.gz"
   }],
-  "source_dataset_s3_url" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/biodatacatalyst_javabins_01-19-21.tar.gz"
+  "source_dataset_s3_url" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/biodatacatalyst_javabins_02-04-21.tar.gz"
   ,
   "source_destigmatized_dataset_s3_url" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/biodatacatalyst_javabins_01-19-21.tar.gz"
   ,
   "source_genomic_dataset_s3_url" :  "s3://avillach-73-bdcatalyst-etl/general/hpds/genomics_javabins/freeze.5b.chrall.phased.pass.minDP0.remDuplicates.combined.hpds_variant_data.infoStoresFixed.tar.gz"
   ,
-  "infrastructure_git_hash" : "5cdf3493dc4685e91cf896603dd36dd499bab593"
+  "infrastructure_git_hash" : ""
 }
