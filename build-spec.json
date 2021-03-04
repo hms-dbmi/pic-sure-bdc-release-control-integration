@@ -6,27 +6,23 @@
     {
       "project_name": "PIC-SURE-API Build",
       "project_job_git_key":"PSA",
-      "git_hash": "258fa68dfac5d3d6bfca7f15ce3a8ce93d36a048"
+      "git_hash": "96b768961cdc8236f120b790a3f76d40eb55abe6"
     },{
       "project_name": "PIC-SURE-HPDS Build",
       "project_job_git_key":"PSH",
-      "git_hash": "4393cec35d52fc76664c29c8853597920537c23b"
+      "git_hash": "094c0daaa69130f08d696826f824ebca51498336"
     },{
       "project_name": "PIC-SURE Auth Micro-App Build",
       "project_job_git_key":"PSAMA",
-      "git_hash": "b783745c9116fd17fd9a416f1372c437ec2907b3"
+      "git_hash": "a4071fae699b329c60a2a95428398d1bc239a6bf"
     },{
       "project_name": "PIC-SURE-HPDS-UI Build",
       "project_job_git_key":"PSHU",
-      "git_hash": "3fdf00707eb649e16ec3fcc6acabb8ffcb333476"
-    },{
-      "project_name": "PIC-SURE-HPDS DataSTAGE UI Build",
-      "project_job_git_key":"PSHDU",
-      "git_hash": "74ec20e056d8af8d3277e185848d8c3d8b41474f"
+      "git_hash": "169166ab59e56786a8a96dbaac63ad44f95a5f90"
     },{
       "project_name": "biodatacatalyst-ui",
       "project_job_git_key":"BDCU",
-      "git_hash": "fd93de9c063fb7b563d12b28fa907a495bdad464"
+      "git_hash": "85765ef9cbd30c36a60bd2adaf2a4d348c3ef134"
     }
   ],
   "terraform_vars": [{
@@ -35,7 +31,9 @@
   }],
   "source_dataset_s3_url" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/biodatacatalyst_javabins_02-17-21.tar.gz"
   ,
-  "source_genomic_dataset_s3_url" :  "s3://avillach-73-bdcatalyst-etl/general/hpds/genomics_javabins/freeze.5b.chrall.phased.pass.minDP0.remDuplicates.combined.hpds_variant_data.infoStoresFixed.tar.gz"
+  "source_destigmatized_dataset_s3_url" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/biodatacatalyst_javabins_02-17-21.tar.gz"  
   ,
-  "infrastructure_git_hash" : "ef64d1355b3c0c4035fd8188fad925c2cbaa0de3"
+  "source_genomic_dataset_s3_url" :  "s3://avillach-73-bdcatalyst-etl/general/hpds/genomics_javabins/02-19-21/all/"
+  ,
+  "infrastructure_git_hash" : "3316c9d0298866f46f87c3efa76540175f0143ca"
 }
