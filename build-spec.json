@@ -6,7 +6,7 @@
     {
       "project_name": "PIC-SURE-API Build",
       "project_job_git_key":"PSA",
-      "git_hash": "c2a4f36919736ff857221a4cf68e52d71cd09249"
+      "git_hash": "7ee14fbf143222985d4d662ef36f751582c427c8"
     },{
       "project_name": "PIC-SURE-HPDS Build",
       "project_job_git_key":"PSH",
@@ -35,5 +35,5 @@
   ,
   "source_genomic_dataset_s3_url" :  "s3://avillach-73-bdcatalyst-etl/general/hpds/genomics_javabins/02-19-21/all/"
   ,
-  "infrastructure_git_hash" : "1115ce26b2c0cc87311a4d82a71bbc8110761566"
+  "infrastructure_git_hash" : "e574d91043db1f38330440e1063361659da7162a"
 }
