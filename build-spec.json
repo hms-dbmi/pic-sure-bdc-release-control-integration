@@ -14,7 +14,7 @@
     },{
       "project_name": "PIC-SURE Auth Micro-App Build",
       "project_job_git_key":"PSAMA",
-      "git_hash": "1fd7aa6353299888bef54b808c8135497526a3c4"
+      "git_hash": "3083424d0b7f998f8836c48f82065f3cb24da432"
     },{
       "project_name": "PIC-SURE-HPDS-UI Build",
       "project_job_git_key":"PSHU",
@@ -35,5 +35,5 @@
   ,
   "source_genomic_dataset_s3_url" :  "s3://avillach-73-bdcatalyst-etl/general/hpds/genomics_javabins/02-19-21/all/"
   ,
-  "infrastructure_git_hash" : "23b0327f48536e2fb33b6a4eda520146c23a02ec"
+  "infrastructure_git_hash" : "a6cd8e5725fe331ddd766a8f6ca540201e7ca64b"
 }
