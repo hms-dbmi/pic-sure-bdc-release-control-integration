@@ -10,7 +10,7 @@
     },{
       "project_name": "PIC-SURE-HPDS Build",
       "project_job_git_key":"PSH",
-      "git_hash": "278d92c974378041d16a53db10eb50cbc47d2213"
+      "git_hash": "9cab937eca30341a698e4c2900379be1a781db3a"
     },{
       "project_name": "PIC-SURE Auth Micro-App Build",
       "project_job_git_key":"PSAMA",
@@ -18,11 +18,11 @@
     },{
       "project_name": "PIC-SURE-HPDS-UI Build",
       "project_job_git_key":"PSHU",
-      "git_hash": "787371af07e7506b1f48fb047268d911939132de"
+      "git_hash": "db14366036f5c32272d663d2ccff4535d2ca701d"
     },{
       "project_name": "biodatacatalyst-ui",
       "project_job_git_key":"BDCU",
-      "git_hash": "fc4390a0ba8c190b2d45f4755ae38be4bcb008cd"
+      "git_hash": "b3e9bf25bf7ba4a340ea032bc5c74ac9fb04ee6e"
     }
   ],
   "terraform_vars": [{
