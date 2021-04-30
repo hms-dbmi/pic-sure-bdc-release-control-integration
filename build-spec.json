@@ -6,7 +6,7 @@
     {
       "project_name": "PIC-SURE-API Build",
       "project_job_git_key":"PSA",
-      "git_hash": "115cf760b3b5f578bb6de70b4c83a3e387d1dcae"
+      "git_hash": "3f651d74b08bad3b7d8425bdf11ffbca72c5a9fd"
     },{
       "project_name": "PIC-SURE-HPDS Build",
       "project_job_git_key":"PSH",
