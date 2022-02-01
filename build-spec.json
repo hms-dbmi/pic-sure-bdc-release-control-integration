@@ -20,6 +20,10 @@
       "project_job_git_key":"PSHU",
       "git_hash": "04bb49ee511d89cf639ba4023940ef4fce3a32ea"
     },{
+      "project_name": "PIC-SURE-SEARCH Build",
+      "project_job_git_key":"PSS",
+      "git_hash": "d32bff955423e1cd87240ad1f2ef84d4e910b037"
+    },{
       "project_name": "biodatacatalyst-ui",
       "project_job_git_key":"BDCU",
       "git_hash": "6d5643bb22b4d7bdf0905e8a65f7d5c4543535f6"
