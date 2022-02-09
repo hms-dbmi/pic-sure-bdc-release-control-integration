@@ -39,5 +39,5 @@
   ,
   "source_genomic_dataset_s3_url" :  "s3://avillach-73-bdcatalyst-etl/general/hpds/genomics_javabins/04-07-21/all/"
   ,
-  "infrastructure_git_hash" : "4f2aa3ce9490f5d4ae7f08483be0fab6b8d220ea"
+  "infrastructure_git_hash" : "85acae0a651f2c79f75d04779742ffa50bd49777"
 }
