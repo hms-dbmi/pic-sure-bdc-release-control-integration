@@ -22,7 +22,7 @@
     },{
       "project_name": "PIC-SURE-SEARCH Build",
       "project_job_git_key":"PSS",
-      "git_hash": "a77bc7f1ac881073d553ddb571c14eff351f0197"
+      "git_hash": "d4071569f9743c3f7e41876dedc95037fc08f524"
     },{
       "project_name": "biodatacatalyst-ui",
       "project_job_git_key":"BDCU",
@@ -39,5 +39,5 @@
   ,
   "source_genomic_dataset_s3_url" :  "s3://avillach-73-bdcatalyst-etl/general/hpds/genomics_javabins/04-07-21/all/"
   ,
-  "infrastructure_git_hash" : "e570fbe76d9ae5684e031f4b07b1b8b43ebe323a"
+  "infrastructure_git_hash" : "c430f497500e5fdbd0ce3dcef956e096afa27e21"
 }
