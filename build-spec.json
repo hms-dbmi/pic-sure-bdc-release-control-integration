@@ -30,7 +30,7 @@
     }
   ],
   "terraform_vars": [{
-    "ami_id" : "ami-04a448e5109dc0824",
+    "ami_id" : "ami-0e5cc69b4f4534d4d",
     "dataset_s3_object_key" : "data/biocatalyst_javabins_11_26_2019_rekeyed.tar.gz"
   }],
   "source_dataset_s3_url" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/biodatacatalyst_javabins_data_analyzer_03-04-22.tar.gz"   
@@ -39,5 +39,5 @@
   ,
   "source_genomic_dataset_s3_url" :  "s3://avillach-73-bdcatalyst-etl/general/hpds/genomics_javabins/04-07-21/all/"
   ,
-  "infrastructure_git_hash" : "e709a43a11c2dce083bd4d84ace34b7ae3e5e7fd"
+  "infrastructure_git_hash" : "fca32f7b15501bc4da03fbded5026d72d614458b"
 }
