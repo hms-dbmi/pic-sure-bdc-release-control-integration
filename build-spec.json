@@ -30,7 +30,7 @@
     },{
       "project_name": "PIC-SURE Visualization Build",
       "project_job_git_key":"PSV",
-      "git_hash": "ad3b6baa798f8d444242eee4aba6e04cddbebe49"
+      "git_hash": "d41153c15a1342463a554891d6d207292ac5bbd3"
     }
   ],
   "terraform_vars": [{
