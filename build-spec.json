@@ -22,11 +22,11 @@
     },{
       "project_name": "PIC-SURE-SEARCH Build",
       "project_job_git_key":"PSS",
-      "git_hash": "20791bdc4840cd25e42ff97052b32368bda26beb"
+      "git_hash": "96e1eaccf33b737fffc3b867799f856920c2f30f"
     },{
       "project_name": "biodatacatalyst-ui",
       "project_job_git_key":"BDCU",
-      "git_hash": "317505df5c124dfc3654997d44b2398601e18c39"
+      "git_hash": "0bb938cbea9995a657fd79abf4dc46a4dcb4ed9a"
     },{
       "project_name": "PIC-SURE Visualization Build",
       "project_job_git_key":"PSV",
@@ -45,5 +45,5 @@
   ,
   "source_dictionary_s3_object_key" : "/data/MANUAL_RUN_IMPORT_CHANGES/dictionary.javabin.tar.gz"
   ,
-  "infrastructure_git_hash" : "253480960b849d06d6cb506f19a8a2c55f339892"
+  "infrastructure_git_hash" : "9d696a1495efb65ee029c06e7b6ec9d79d372455"
 }
