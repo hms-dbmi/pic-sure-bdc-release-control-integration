@@ -26,11 +26,11 @@
     },{
       "project_name": "biodatacatalyst-ui",
       "project_job_git_key":"BDCU",
-      "git_hash": "1e7143e4ae2fbba40484ac0345ba23d548930df0"
+      "git_hash": "ea2ce436b856ddd30d605924180ff1694547b1ca"
     },{
       "project_name": "PIC-SURE Visualization Build",
       "project_job_git_key":"PSV",
-      "git_hash": "f7eefdbda24afc5ba94349b3438e9dd727e1164f"
+      "git_hash": "03367d6c8f25a0b5ae7f7faea414274c7bade32c"
     }
   ],
   "terraform_vars": [{
