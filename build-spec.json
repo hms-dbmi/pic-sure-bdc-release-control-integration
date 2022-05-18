@@ -45,5 +45,5 @@
   ,
   "source_dictionary_s3_object_key" : "data/MANUAL_RUN_FULL_DATA_SET_V4/dictionary.javabin.tar.gz"
   ,
-  "infrastructure_git_hash" : "df58b40cbf51ad86c10b115f4737e3f7ef5b320d"
+  "infrastructure_git_hash" : "5da3598195f1d434d4754250ecae7f5d3ca36231"
 }
