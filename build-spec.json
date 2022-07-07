@@ -10,7 +10,7 @@
     },{
       "project_name": "PIC-SURE-HPDS Build",
       "project_job_git_key":"PSH",
-      "git_hash": "a19467b3c8213a8599582c721611112ed4daadfd"
+      "git_hash": "0cea58ac3206b0acb414a8098dc3a134b4849b02"
     },{
       "project_name": "PIC-SURE Auth Micro-App Build",
       "project_job_git_key":"PSAMA",
@@ -30,7 +30,7 @@
     },{
       "project_name": "PIC-SURE Visualization Build",
       "project_job_git_key":"PSV",
-      "git_hash": "4b976da5c8f471ea81103e57ad36779dda44071c"
+      "git_hash": "334a6ed21dc62259e11c7ede0a830ced7e14d544"
     }
   ],
   "terraform_vars": [{
