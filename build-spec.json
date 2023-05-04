@@ -6,7 +6,7 @@
     {
       "project_name": "PIC-SURE-API Build",
       "project_job_git_key":"PSA",
-      "git_hash": "25896ccd22931b1aeb3083b818356d220c47dbb9"
+      "git_hash": "4a5df6f9b56c7658fc20c549ce5a9d2cc309b425"
     },{
       "project_name": "PIC-SURE-HPDS Build",
       "project_job_git_key":"PSH",
@@ -26,7 +26,7 @@
     },{
       "project_name": "biodatacatalyst-ui",
       "project_job_git_key":"BDCU",
-      "git_hash": "cdfd75c32cfe1dfd7cc51af11a26abbad5b6ab3b"
+      "git_hash": "b66df9ad2cb40da00b4ae45194229219651de64e"
     },{
       "project_name": "PIC-SURE Visualization Build",
       "project_job_git_key":"PSV",
