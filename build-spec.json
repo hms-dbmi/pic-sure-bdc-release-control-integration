@@ -6,11 +6,11 @@
     {
       "project_name": "PIC-SURE-API Build",
       "project_job_git_key":"PSA",
-      "git_hash": "8f66a1dc30f7624e3c4b0ffc18e809750dab879a"
+      "git_hash": "ALS-4465"
     },{
       "project_name": "PIC-SURE-HPDS Build",
       "project_job_git_key":"PSH",
-      "git_hash": "12985c74b699d1ae02b1fd468573cf1b0b080868"
+      "git_hash": "ALS-4465"
     },{
       "project_name": "PIC-SURE Auth Micro-App Build",
       "project_job_git_key":"PSAMA",
@@ -45,5 +45,5 @@
   ,
   "source_dictionary_s3_object_key" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/dictionary_javabin_04-20-23.tar.gz"
   ,
-  "infrastructure_git_hash" : "b5e8f61b900dae61bb40643d9704059858416ebb"
+  "infrastructure_git_hash" : "c480b6a5765b0f15c44cfabe7bd26ce52e0c859a"
 }
