@@ -18,7 +18,7 @@
     },{
       "project_name": "PIC-SURE-HPDS-UI Build",
       "project_job_git_key":"PSHU",
-      "git_hash": "ALS-4666"
+      "git_hash": "master"
     },{
       "project_name": "PIC-SURE-SEARCH Build",
       "project_job_git_key":"PSS",
@@ -26,7 +26,7 @@
     },{
       "project_name": "biodatacatalyst-ui",
       "project_job_git_key":"BDCU",
-      "git_hash": "4c8f75fa4f707d0fc3f208a1e8402f6f655d53ef"
+      "git_hash": "master"
     }
   ],
   "terraform_vars": [{
