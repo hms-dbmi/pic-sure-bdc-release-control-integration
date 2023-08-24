@@ -18,7 +18,7 @@
     },{
       "project_name": "PIC-SURE-CORE-FRONTEND Build",
       "project_job_git_key":"PSHU",
-      "git_hash": "feature/auto-completer-bug-fixes"
+      "git_hash": "release/0001"
     },{
       "project_name": "PIC-SURE-SEARCH Build",
       "project_job_git_key":"PSS",
@@ -26,7 +26,7 @@
     },{
       "project_name": "PIC-SURE-BDC-FRONTEND Build",
       "project_job_git_key":"BDCU",
-      "git_hash": "release/0001-Plus-auto-completer"
+      "git_hash": "feature/hide-other-bar-for-open"
     }
   ],
   "terraform_vars": [{
