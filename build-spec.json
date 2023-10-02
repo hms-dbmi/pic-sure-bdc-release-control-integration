@@ -18,7 +18,7 @@
     },{
       "project_name": "PIC-SURE-CORE-FRONTEND Build",
       "project_job_git_key":"PSHU",
-      "git_hash": "ALS-5107-banner"
+      "git_hash": "cc4f66c6abba12f5ed7ac1901b4cf4e2b1fd7906"
     },{
       "project_name": "PIC-SURE-SEARCH Build",
       "project_job_git_key":"PSS",
@@ -26,7 +26,7 @@
     },{
       "project_name": "PIC-SURE-BDC-FRONTEND Build",
       "project_job_git_key":"BDCU",
-      "git_hash": "ALS-5107-banner"
+      "git_hash": "41c07031283af564f133906b4e83fa2d1e448103"
     }
   ],
   "terraform_vars": [{
@@ -41,5 +41,5 @@
   ,
   "source_dictionary_s3_object_key" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/dictionary_javabin_09-29-23.tar.gz"   
   ,
-  "infrastructure_git_hash" : "ALS-5107-banner"
+  "infrastructure_git_hash" : "a287ceb9002c98df25261d817cf7f4774616d5c2"
 }
