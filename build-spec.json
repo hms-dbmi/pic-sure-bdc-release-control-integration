@@ -18,15 +18,15 @@
     },{
       "project_name": "PIC-SURE-CORE-FRONTEND Build",
       "project_job_git_key":"PSHU",
-      "git_hash": "release/0004"
+      "git_hash": "release/0006"
     },{
       "project_name": "PIC-SURE-SEARCH Build",
       "project_job_git_key":"PSS",
-      "git_hash": "release/0002"
+      "git_hash": "v2.0.2"
     },{
       "project_name": "PIC-SURE-BDC-FRONTEND Build",
       "project_job_git_key":"BDCU",
-      "git_hash": "release/0004"
+      "git_hash": "v2.3.1"
     }
   ],
   "terraform_vars": [{
