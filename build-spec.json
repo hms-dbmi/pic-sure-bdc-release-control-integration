@@ -22,7 +22,7 @@
     },{
       "project_name": "PIC-SURE-SEARCH Build",
       "project_job_git_key":"PSS",
-      "git_hash": "feature/read-fence-mapping"
+      "git_hash": "release/0002"
     },{
       "project_name": "PIC-SURE-BDC-FRONTEND Build",
       "project_job_git_key":"BDCU",
@@ -41,5 +41,5 @@
   ,
   "source_dictionary_s3_object_key" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/dictionary_javabin_10-18-23.tar.gz"   
   ,
-  "infrastructure_git_hash" : "fix-open-study-tags-int"
+  "infrastructure_git_hash" : "integration-release/0002"
 }
