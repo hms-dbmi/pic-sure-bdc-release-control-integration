@@ -18,7 +18,7 @@
     },{
       "project_name": "PIC-SURE-CORE-FRONTEND Build",
       "project_job_git_key":"PSHU",
-      "git_hash": "ALS-5138-Banner-Improvements"
+      "git_hash": "release/0008"
     },{
       "project_name": "PIC-SURE-SEARCH Build",
       "project_job_git_key":"PSS",
@@ -26,7 +26,7 @@
     },{
       "project_name": "PIC-SURE-BDC-FRONTEND Build",
       "project_job_git_key":"BDCU",
-      "git_hash": "release/0005"
+      "git_hash": "ALS-5229"
     }
   ],
   "terraform_vars": [{
