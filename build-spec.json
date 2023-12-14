@@ -26,7 +26,7 @@
     },{
       "project_name": "PIC-SURE-BDC-FRONTEND Build",
       "project_job_git_key":"BDCU",
-      "git_hash": "ALS-5379-merged"
+      "git_hash": "feature/add-psama"
     }
   ],
   "terraform_vars": [{
@@ -41,5 +41,5 @@
   ,
   "source_dictionary_s3_object_key" : "s3://avillach-73-bdcatalyst-etl/general/hpds/javabin/dictionary_javabin_12-13-23-pcgc.tar.gz"   
   ,
-  "infrastructure_git_hash" : "feature/ALS-5387.2"
+  "infrastructure_git_hash" : "feature/add-psama"
 }
